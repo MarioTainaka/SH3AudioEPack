@@ -1,3 +1,8 @@
+## Silent Hill 3 Audio Enhancement Pack Version 2.0.4 Update
+
+- Fixed Hospital Keypad SFX not playing due to short file length issue. 
+
+
 ## Silent Hill 3 Audio Enhancement Pack Version 2.0.3 Update 
 
 - Migrated to the new mod.json format
