@@ -9,6 +9,7 @@ Moddb:https://www.moddb.com/mods/silent-hill-3-audio-enhancement-pack
 
 Gamebanna:https://gamebanana.com/sounds/51161
 
+NexusMods:https://www.nexusmods.com/silenthill3/mods/5
 
 ## Update Failure
 
