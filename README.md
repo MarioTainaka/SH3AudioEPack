@@ -13,6 +13,8 @@ NexusMods:https://www.nexusmods.com/silenthill3/mods/5
 
 ## Update Failure
 
-if the updates via Reloaded II fail for whatever reason please grab the latest update.zip\Update.7z from the releases page and overwrite the files. If the main mod version is HIGHER then those in this repo no updates are required.
+if the updates via Reloaded II fails for whatever reason please grab the latest update.zip\Update.7z from the releases page and overwrite the files. If the main mod version is HIGHER then those in this repo no updates are required. 
+
+Version 2.0 updates via Reloaded II are no longer supported. Please download Version 3.0 and do a clean install.
 
 
